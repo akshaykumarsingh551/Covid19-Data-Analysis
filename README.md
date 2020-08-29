@@ -1,4 +1,4 @@
-# Cvid19-Data-Analysis
+# Covid19-Data-Analysis
 ## Key Concepts:
 
 1.Understanding the purpose of the project, the datasets that will be used, and the questions that will be answered with the analysis.
