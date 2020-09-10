@@ -1,4 +1,7 @@
 # Covid19-Data-Analysis
+
+We are going to work with COVID19 dataset, published by John Hopkins University
+
 ## Project Structure
 **Task 1: Introduction: 
 Understand the purpose of the project, the datasets that will be used, and the question we will answer with our analysis.**
